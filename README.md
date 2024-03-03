@@ -1,4 +1,4 @@
-Project Title - <b>Random_Color_Box</b>
+Project Title - <b>Random-Color-Box</b>
 
 <br />
 <b><i>Introduction</i></b>
